@@ -16,6 +16,7 @@ dependencies:
     path: packages/dart_generator
   motion_toast: ^2.6.7
   google_fonts: ^4.0.4
+  firebase_core: ^2.11.0
 
 dev_dependencies:
   flutter_test:
